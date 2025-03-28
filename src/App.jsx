@@ -8,7 +8,6 @@ import Delivery from "./component/page/delivery.jsx";
 import Say from "./component/page/say.jsx"
 import Footer from "./component/page/Footer.jsx"
 import Coffee from "./component/coffee.jsx"
-import Coffe1 from "./component/coffee1.jsx"
 import Coffee2 from "./component/coffee2.jsx"
 import Aos from"aos"
 import Coffee1 from "./component/coffee1.jsx";
